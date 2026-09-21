@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Tauri / Rust
+src-tauri/target/
+
+# Python
+sidecar/__pycache__/
+sidecar/.venv/
+*.pyc
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
